@@ -8,9 +8,14 @@ ___
 <details>
   <summary>pesquisas-campo</summary>
   
-  Nestá pasta ficarão armazenadas todas as pesquisas feitas do projeto, tanto em formato `.csv`, quanto em `.xlsx`.
+  Nesta pasta ficarão armazenadas todas as pesquisas feitas do projeto, tanto em formato `.csv`, quanto em `.xlsx`.
     
-</details>  
+</details>
   
+<details>
+  <summary>back</summary>
+
+  Nesta pasta ficarão armazenados todos arquivos referentes ao protótipo do backend.
+</details>
   
 A medida que o projeto for evoluindo, esse `.md` deverá ser alterado.
